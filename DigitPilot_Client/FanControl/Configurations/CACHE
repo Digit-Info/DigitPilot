@@ -1,0 +1,23 @@
+{
+  "CurrentConfigFileName": "userConfig.json",
+  "CustomConfigFolder": "C:\\Users\\qbaff\\Desktop\\apli info pc\\bin\\Release\\net8.0-windows\\FanControl\\Configurations",
+  "Main": {
+    "CultureSymbol": "fr",
+    "DisableDonationPopup": false,
+    "DisablePawnIoPopup": false,
+    "FirstLaunch": false,
+    "FontFamily": "Default (MaterialDesign)",
+    "Height": 1023,
+    "Left": 394,
+    "LeftDrawerOpen": true,
+    "PopupShownDateTime": "2026-07-31T15:30:59.4818165+02:00",
+    "StartMinimized": false,
+    "Top": 289,
+    "Width": 1920,
+    "WindowState": 0
+  },
+  "Updater": {
+    "CheckForUpdateAtStartup": true,
+    "DisablePopupVersionNumber": 0
+  }
+}

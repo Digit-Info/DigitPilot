@@ -1,0 +1,40 @@
+========================================================================
+             DIGIT'PILOT v0.1.3 (Build 1) - EDITION CLIENT
+========================================================================
+
+Bienvenue sur la version officielle v0.1.3 (Build 1) de Digit'Pilot !
+Cette edition client est autonome (x64) et securisee de bout en bout.
+
+--- GUIDE DE DEMARRAGE RAPIDE ---
+
+1. Pour lancer l'application :
+   Double-cliquez simplement sur :
+   >>> Lancer_DigitPilot.bat <<<  (ou directement DigitPilot.exe)
+   (Ce script requiert les privileges Administrateur pour acceder aux
+    capteurs materiels, reglages kernel et outils d'optimisation).
+
+2. Contenu du dossier :
+   - DigitPilot.exe        : Application principale compilee & obfusquee
+   - Lancer_DigitPilot.bat : Lanceur securise avec elevation UAC
+   - Desinstaller_DigitPilot.bat : Script de desinstallation propre
+   - FanControl\           : Moteur de ventilation personnalisee
+   - Utilitaires\          : Outils et scripts de maintenance
+   - app.ico               : Icone officielle haute definition
+   - VERSION.txt           : Details techniques de la version
+   - LISEZ-MOI.txt         : Ce guide
+
+3. Principales nouveautes v0.1.3 (Build 1) :
+   - Assistant d'installation graphique C# WPF certifie Windows 10/11
+   - Nouveau Launcher Cyber HUD Standalone & architecture Fast-Path
+   - Diagnostic complet de sante batterie (Wear Level, cycles de charge)
+   - Audit automatique des erreurs pilotes (Code 10, Code 43)
+   - Fiche d'architecture materielle avancee (UEFI, DDR dynamique, L1/L2/L3)
+   - Centre de Depannage Express : Rescue Kit Technicien 1-Clic
+   - Suite de Securite Proactive : Fichier Hosts, Persistances, Ports d'ecoute
+   - Protection Failsafe Noyau "Zero Casse" et chiffrement DPAPI des licences
+   - Suivi cumulatif a vie de l'espace disque libere
+   - Export du bilan de sante en formats HTML dynamique et TXT brut.
+
+--- ASSISTANCE ET SUPPORT ---
+Developpe avec soin par Jordan Remond.
+========================================================================
