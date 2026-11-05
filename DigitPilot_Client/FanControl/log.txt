@@ -1,9 +1,0 @@
-
-[V272] 25/07/2026 05:44:31: Update - NvAPIWrapper.Native.Exceptions.NVIDIAApiException: NVAPI_ERROR
-   at NvAPIWrapper.GPU.GPUThermalInformation.get_ThermalSensors()
-   at FanControl.Domain.BackendProviders.NVApiWrapper.NVApiTempSensor.Update()
-   at FanControl.Domain.BackendProviders.NVApiWrapper.NVApiWrapperBackendProvider.Update()
-[V272] 25/07/2026 05:44:32: NVAPIWrapper is in failed state, requesting refresh - NvAPIWrapper.Native.Exceptions.NVIDIAApiException: NVAPI_ERROR
-   at NvAPIWrapper.GPU.GPUThermalInformation.get_ThermalSensors()
-   at FanControl.Domain.BackendProviders.NVApiWrapper.NVApiTempSensor.Update()
-   at FanControl.Domain.BackendProviders.NVApiWrapper.NVApiWrapperBackendProvider.Update()
