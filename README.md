@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Digit-Info/DigitPilot/releases/latest"><img src="https://img.shields.io/badge/Version-0.1.3--build1-00F0FF?style=for-the-badge&logo=windows11&logoColor=white" alt="Version 0.1.3"></a>
+  <a href="https://github.com/Digit-Info/DigitPilot/releases/latest"><img src="https://img.shields.io/badge/Version-0.1.3--build2-00F0FF?style=for-the-badge&logo=windows11&logoColor=white" alt="Version 0.1.3"></a>
   <a href="https://github.com/Digit-Info/DigitPilot/releases/latest"><img src="https://img.shields.io/badge/Plateforme-Windows_10_%7C_11_(x64)-7C3AED?style=for-the-badge&logo=windows&logoColor=white" alt="Plateforme"></a>
   <img src="https://img.shields.io/badge/Runtime-.NET_8.0_WPF-00FF94?style=for-the-badge&logo=dotnet&logoColor=black" alt=".NET 8 WPF">
   <img src="https://img.shields.io/badge/Confidentialité-100%25_Offline-blue?style=for-the-badge&logo=shield&logoColor=white" alt="100% Hors Ligne">
